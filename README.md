@@ -10,7 +10,7 @@ Website Link:
 (https://chocolate-cakes-kijjl6g.gamma.site/)
 
 Location:
-Street - Pavillion Bukit Jalil
+Street - Pavilion Bukit Jalil
 State/province/area - Selangor
 Zip code - 42600
 
@@ -38,17 +38,15 @@ Keychains - RM12
 
 Product's Weight :
 Plushies - 50g
-
+Sweaters - 200g
+Beanies - 100g
+Keychains - 25g
 
 
 Ordering process:
-Specify the cochet products
+Specify the crochet products
 For each products, specify the colour for the products
-If cake tier is more than 1, lower cake must have bigger size than upper ones
-Cake tier cannot have different shapes
-
-Ingredients:
-All-purpose flour, granulated sugar, baking powder, baking soda, eggs, milk, vegetable oil, vanilla extract. (Made from scratch, all locally sourced ingredients)
+If want custom design, talk to the crochetor in person
 
 Programs:
 Crochet class for beginners are available 
